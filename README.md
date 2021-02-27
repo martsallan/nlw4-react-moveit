@@ -54,21 +54,18 @@ Entre outras técnicas, foi utilizado o recurso de armazenamento em cookies na m
 ## How to run the app locally 🤔
 
 </div>
----
-```
-# Clone repository
 
+
+### Clone repository
+```
 $ git clone https://github.com/r3nanp/move.it.git
 ```
 
+### At the root of the project, run:
 ```
-# At the root of the project, run:
-
 yarn or npm install
 ```
-
+### To run the app in your machine:
 ```
-# To run the app in your machine:
-
 yarn dev or npm run dev
 ```
